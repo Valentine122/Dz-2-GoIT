@@ -1,0 +1,90 @@
+.profitpage {
+	width: 370px;
+	height: 1320px;
+	background: #E0EBFE;
+	left: 40px;
+}
+
+.wrapper {
+	width: 1200px;
+	height: 1320px;
+	margin: 0 0 370px 0;
+	background: white;
+	border: 2px solid black;
+	right: 370px;
+	align-items: center;
+	display: flex;
+}
+.main-content{
+	display: flex;
+}
+.image{
+	width: 100%;
+	padding: 40px 0 0 0;
+}
+
+.contact{
+	padding: 51px 0 0 40px;
+}
+
+.numandmail{
+	margin: -75px 0 0 0;
+	padding: 0 0 0 40px;
+	font-size: 15px;
+}
+
+.tech-skills{
+	padding: 47px 0 0 40px;
+}
+
+.skillsmove{
+	padding: 0 50px 0 40px;
+}
+
+.softskills{
+	padding: 47px 0 0 40px;
+}
+
+.softskillsmove{
+	padding: 0 50px 0 40px;
+
+}
+
+.info{
+	margin: 0 100px 0 88px;
+	max-height: 1200px;
+}
+
+.sizetext{
+	font-size: 60px;
+	margin: -20px 100px 0 0;
+	width: 600px;
+}
+
+.textbox{
+	box-sizing: border-box;
+	max-width: 480px;
+}
+
+.links{
+	font-size: 22px;
+	width: 600px;
+
+}
+.workex{
+	font-size: 20px;
+	margin: 10px;
+	margin: 1px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+.smalltext{
+	font-size: 15px;
+	padding: -100px 0 0 0;
+}
+
+.loremstuff{
+	width: 600px;
+	font-size: 20px;
+}
